@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "title": "Interactive Personal Blog",
+        "date": "2024-10-11 15:37:46",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Create an interactive personal blog where users can share their thoughts, engage with comments, and customize their profiles. Incorporate features like post categorization and tagging."
+    },
+    {
+        "id": 2,
+        "title": "Bootstrap UI Kit Creator",
+        "date": "2024-10-11 16:55:12",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Develop a toolkit that allows developers to create custom UI components using Bootstrap 5. Include a drag-and-drop interface to design layouts effortlessly."
+    },
+    {
+        "id": 3,
+        "title": "Responsive Portfolio Website",
+        "date": "2024-09-30 10:20:00",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Build a fully responsive portfolio website that adapts seamlessly to any device. Utilize Bootstrap's grid system to showcase your projects and skills effectively."
+    },
+    {
+        "id": 4,
+        "title": "Custom Bootstrap Theme Builder",
+        "date": "2023-03-01 16:55:12",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Create a web application that allows users to design their own Bootstrap themes. Offer options for colors, fonts, and layout variations, enabling them to download their custom themes."
+    },
+    {
+        "id": 5,
+        "title": "Dynamic Event Planner App",
+        "date": "2023-03-15 09:30:00",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Develop a dynamic event planner application that utilizes Bootstrap 5 components. Features include user registration, event creation, RSVP functionality, and real-time updates."
+    },
+    {
+        "id": 6,
+        "title": "Portfolio Showcase with Filters",
+        "date": "2024-08-22 14:30:00",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Build a portfolio website that showcases your work with filtering options. Allow users to filter projects by category, technology, or date of completion using Bootstrap's card components."
+    },
+    {
+        "id": 7,
+        "title": "Web Design Trends Tracker",
+        "date": "2024-07-15 11:45:00",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Create an application that tracks and visualizes the evolution of web design trends. Use Bootstrap for a sleek interface and include features for user-generated trend submissions."
+    },
+    {
+        "id": 8,
+        "title": "Dark Mode Switcher",
+        "date": "2024-06-05 09:30:00",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Develop a web application that allows users to toggle dark mode on and off. Use Bootstrap's utility classes to easily switch styles and enhance user experience."
+    },
+    {
+        "id": 9,
+        "title": "Blog Layout Generator",
+        "date": "2024-05-18 13:00:00",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Create a tool that helps users generate a blog layout using Bootstrap’s grid system. Allow customization of header, footer, and sidebar components for a personalized look."
+    },
+    {
+        "id": 10,
+        "title": "Admin Dashboard for Content Management",
+        "date": "2024-10-11 20:15:30",
+        "image": "https://dummyimage.com/1700x700/dee2e6/6c757d.jpg",
+        "content": "Build an admin dashboard to manage content on a website. Include user management, post creation, and analytics features to track user engagement.",
+        "author": "admin"
+    }
+]
